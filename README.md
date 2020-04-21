@@ -11,8 +11,7 @@ To use it:
 
 Output example:
 
-``
-
+```
 Numbers:
 23
 44
@@ -23,5 +22,4 @@ Numbers:
 Stars:
 2
 3
-
-``
+```
