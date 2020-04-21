@@ -8,3 +8,20 @@ To use it:
 1. ```pip install requests```
 
 2. ```py main.py```
+
+Output example:
+
+``
+
+Numbers:
+23
+44
+50
+19
+17
+
+Stars:
+2
+3
+
+``
